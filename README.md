@@ -1,4 +1,4 @@
-# Portfolio_Projects
+# Data Analysis Projects
 
 **1. Global Game Sales EDA**
 
